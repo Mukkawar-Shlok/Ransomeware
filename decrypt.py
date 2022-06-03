@@ -5,6 +5,7 @@ import os
 from cryptography.fernet import Fernet
 
 
+
 phrase="iwatani"
 
 uphrase=input("Enter Phrase\n")
